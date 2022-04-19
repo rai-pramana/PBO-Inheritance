@@ -1,4 +1,4 @@
-# Tugas-2_Collection_PBO-D
+# Tugas-2_Inheritance_PBO-D
 Tugas 2 Pengimplementasian Inheritance
 Program Penghitung Luas Dan Volume Bangun
 
